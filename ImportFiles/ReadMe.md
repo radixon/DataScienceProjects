@@ -1,6 +1,6 @@
 <h2>Read/Save Other Data Formats</h2>
 
-| Data Formate |        Read       |            Save |
+| Data Format  |        Read       |            Save |
 | ------------ | :---------------: | --------------: |
 | csv          |  `pd.read_csv()`  |   `df.to_csv()` |
 | data         |  `pd.read_fwf()`  |   `df.to_fwf()` |
